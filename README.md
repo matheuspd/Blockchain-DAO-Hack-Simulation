@@ -1,2 +1,2 @@
 # Blockchain-DAO-Hack-Simulation
-Simple simulation of the DAO Hack vulnerability using Besu and Hardhat for the Crypto and Blockchain discipline
+Simple simulation of the DAO Hack vulnerability using Remix IDE for the Crypto and Blockchain discipline
